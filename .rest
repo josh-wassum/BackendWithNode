@@ -1,0 +1,2 @@
+// Get request that retrieves data using a REST API.
+GET http://localhost:8080/professional
